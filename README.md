@@ -11,18 +11,31 @@ Whether you're a student, parent, educator, or healthcare professional, this rep
 🎯 Objectives
 
 Provide a state-wise list of BPT colleges in India.
+
 Share essential college information in a structured format.
+
 Help students compare institutions easily.
+
 Create a free and open-source resource for the physiotherapy community.
 
 📂 Information Included
+
 Each college entry may contain:
+
 🏫 College Name
+
 📍 Location
+
 🏛️ Affiliated University
+
 🎓 Degree Offered
+
 💰 Approximate Fees
+
 📅 Admission Process
+
 📞 Contact Information
+
 🌐 Official Website
+
 ⭐ Additional Notes
